@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jkaus324" alt="jkaus324" /></a> </p>
 
-- 🔭 I’m currently working on **Video Conferencing site**
+- 🔭 I’m currently working as an Intern at **Pinpencil**
 
-- 🌱 I’m currently learning **Full Stack, React js, Python and R**
+- 🌱 I’m currently learning **Full Stack,Python and R**
 
 - 💬 Ask me about **Web Development, C, C++ and Python**
 
