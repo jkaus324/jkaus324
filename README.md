@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jkaus324" alt="jkaus324" /></a> </p>
 
-- 🔭 I’m currently working as an Full Stack Web developer Intern at **Pinpencil**
+- 🔭 I’m currently working as a Full Stack Web Developer Intern at **Pinpencil**
 
 - 🌱 I’m currently learning **Full Stack,Python and R**
 
